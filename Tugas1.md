@@ -42,3 +42,26 @@ Acara 3: Pengenalan GitHub
   - Sering lupa urutan langkah (misalnya harus `git add` dulu sebelum `git commit`, atau `git commit` sebelum `git push`).  
 
 ## Fitur 
+1. dir (Windows)
+→ menampilkan isi folder saat ini, supaya tahu sudah masuk ke repo atau belum.
+
+2. cd <nama_folder>
+→ berpindah direktori ke folder project (misalnya cd Coba-Git).
+
+3. git clone <URL>
+→ menyalin repository dari GitHub ke komputer lokal.
+
+4. git config --global user.email "emailmu"
+→ untuk menyimpan alamat email GitHub kamu agar dikenali setiap kali commit.
+
+5. git init
+→ membuat repository Git baru secara lokal (meski kalau sudah clone biasanya tidak perlu lagi).
+
+6. git add .
+→ menambahkan semua perubahan file di folder tersebut ke staging area.
+
+7. git commit -m "pesan"
+→ menyimpan perubahan ke repository lokal dengan pesan tertentu.
+
+8. git push
+→ mengirim perubahan dari repository lokal ke repository GitHub (remote).
