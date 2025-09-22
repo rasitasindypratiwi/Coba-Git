@@ -65,3 +65,6 @@ Acara 3: Pengenalan GitHub
 
 8. git push
 → mengirim perubahan dari repository lokal ke repository GitHub (remote).
+
+## Bukti ss an
+![bukti coba git](Images/Screenshot%20(179).png)
